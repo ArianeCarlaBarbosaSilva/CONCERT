@@ -1,34 +1,34 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Caneta BIC Preta ",
-        "price": "4.50"
-      },
-      {
-        "name": "Macbook Air Pro",
-        "price": "13000.00",
-        "id": 3
-      },
-      {
-        "name": "Lapiseira Pentel P205 Preta",
-        "price": "39.99",
-        "id": 4
-      },
-      {
-        "name": "Cadeira ergonômica p/ home office",
-        "price": "699.99",
-        "id": 5
-      },
-      {
-        "name": "Iphone XI Plus",
-        "price": "7399.98",
-        "id": 6
-      },
-      {
-        "name": "Livro Algoritmos de Allan Cormen",
-        "price": "399",
-        "id": 7
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta ",
+      "price": "4.50"
+    },
+    {
+      "name": "Macbook Air Pro",
+      "price": "13000.00",
+      "id": 3
+    },
+    {
+      "name": "Lapiseira Pentel P205 Preta",
+      "price": "39.99",
+      "id": 4
+    },
+    {
+      "name": "Cadeira ergonômica p/ home office",
+      "price": "699.99",
+      "id": 5
+    },
+    {
+      "name": "Iphone XI Plus",
+      "price": "7399.98",
+      "id": 6
+    },
+    {
+      "name": "Livro Algoritmos de Allan Cormen",
+      "price": "399",
+      "id": 7
+    }
+  ]
+}
