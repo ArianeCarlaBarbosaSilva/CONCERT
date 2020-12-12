@@ -2,33 +2,33 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta ",
-      "price": "4.50"
+      "name": "Caneta BIC Preta Básica",
+      "price": "3.50"
     },
     {
       "name": "Macbook Air Pro",
-      "price": "13000.00",
-      "id": 3
+      "price": "17000.00",
+      "id": 2
     },
     {
       "name": "Lapiseira Pentel P205 Preta",
-      "price": "39.99",
-      "id": 4
+      "price": "39.00",
+      "id": 3
     },
     {
       "name": "Cadeira ergonômica p/ home office",
       "price": "699.99",
-      "id": 5
+      "id": 4
     },
     {
       "name": "Iphone XI Plus",
       "price": "7399.98",
-      "id": 6
+      "id": 5
     },
     {
       "name": "Livro Algoritmos de Allan Cormen",
       "price": "399",
-      "id": 7
+      "id": 6
     }
   ]
 }
